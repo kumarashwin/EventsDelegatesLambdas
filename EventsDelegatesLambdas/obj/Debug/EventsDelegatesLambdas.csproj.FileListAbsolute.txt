@@ -1,0 +1,6 @@
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\bin\Debug\EventsDelegatesLambdas.exe.config
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\bin\Debug\EventsDelegatesLambdas.exe
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\bin\Debug\EventsDelegatesLambdas.pdb
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\obj\Debug\EventsDelegatesLambdas.csprojResolveAssemblyReference.cache
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\obj\Debug\EventsDelegatesLambdas.exe
+C:\Users\Ash\Desktop\pluralsight\Dan Wahlin\EventsDelegatesLambdas\EventsDelegatesLambdas\obj\Debug\EventsDelegatesLambdas.pdb
