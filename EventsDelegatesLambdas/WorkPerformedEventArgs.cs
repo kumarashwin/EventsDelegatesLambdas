@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace EventsDelegatesLambdas
 {
+    public enum WorkType
+    {
+        GoToMeetings,
+        Golf,
+        GenerateReports
+    }
+
     public class WorkPerformedEventArgs : EventArgs
     {
         public WorkPerformedEventArgs(int hours, WorkType workType)
